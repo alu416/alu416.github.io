@@ -1,5 +1,5 @@
 # Site settings
-title: "呂醫師針灸"
+title: "呂醫師診所"
 email: your-email@domain.com
 url: https://example.github.io
 description: "將中醫與西醫結合, 您的健康及未來從這裡開始"
@@ -11,6 +11,7 @@ color:
 
 # Footer settings
 footer: 呂醫師診所
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 
