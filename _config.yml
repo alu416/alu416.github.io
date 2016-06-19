@@ -6,7 +6,7 @@ description: "將中醫與西醫結合, 您的健康及未來從這裡開始"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: rgb(240,242,240)
+  primary-dark: rgb(221,222,222)
   links: '#219ab3'
 
 # Footer settings

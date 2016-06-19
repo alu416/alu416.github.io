@@ -20,14 +20,14 @@ html {
 h1{margin: 0 0 -10px; /*about*/
     font-size: 23px;
     line-height: 1;
-    color:#000000;}
+    color:#232122;}
 h2{
     margin: 0 0 35px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
-    color: #000000;
+    color: #232122;
 }
 h3{margin: 0 0 25px;
     font-size: 18px;
@@ -123,7 +123,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #fff;
+    color: #232122;
 }
 
 .navbar-custom .nav li.active {
@@ -157,7 +157,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: {{ site.color.primary-dark }};
+        background-color: #A5C05B;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -213,10 +213,10 @@ a:focus {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
+    border: 2px solid #A5C05B;
     border-radius: 35px;
     font-size: 40px;
-    color: #fff;
+    color: #A5C05B;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -226,7 +226,7 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
+    color: #7BA4A8;
     background: rgba(255,255,255,.1);
 }
 
