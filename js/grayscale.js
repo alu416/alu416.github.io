@@ -50,7 +50,7 @@ function init() {
         center: new google.maps.LatLng(22.654389, 120.291744), // New York
 
         // Disables the default Google Maps UI components
-        disableDefaultUI: true,
+        disableDefaultUI: false,
         scrollwheel: false,
         draggable: false,
 
